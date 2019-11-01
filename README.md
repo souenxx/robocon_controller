@@ -1,7 +1,7 @@
 robocon_controller
 ====
-
 Overview
+
 EV3rtを操作できるプログラム
 ## Description
 
@@ -19,9 +19,7 @@ EV3rtを操作できるプログラム
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[souenxx](https://github.com/souenxx)
 ====
